@@ -55,5 +55,5 @@ Perusahaan e-commerce retail menghadapi tantangan fluktuasi permintaan bulanan d
 ```text
 ├── ecommerce.csv                   # Raw Dataset
 ├── Fauzan_on_Assignment_D20_.ipynb # Jupyter Notebook (Python Analysis Code)
-├── portofolio_2.pdf                 # Executive Slide Presentation
-└── README.md                        # Documentation File
+├── portofolio_fauzan.pdf           # Executive Slide Presentation
+└── README.md                       # Documentation File
