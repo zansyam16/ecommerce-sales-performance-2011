@@ -11,7 +11,7 @@ Project ini menganalisis tren transaksi bisnis e-commerce (2011) untuk mengident
 ## 👤 About Me
 * **Name:** Muhammad Fauzan Rizkiatama Syam
 * **Target Role:** Data Analyst / Business Intelligence Analyst
-* **Focus Skills:** End-to-End Data Analysis, Data Cleaning, Temporal Data Engineering, Business Storytelling
+* **Focus Skills:** End-to-End Data Analysis, Data Cleaning, Storytelling
 * **Links:** [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
 
 ---
